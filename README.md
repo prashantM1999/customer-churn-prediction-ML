@@ -58,8 +58,8 @@ Predict whether a customer will churn (leave the service) based on their behavio
 
 ## 📸 Visualizations
 
-![Model Comparison](Model comparison.png)
-![ROC Curve Comparison](ROC Curve comparison.png)
+![Model Comparison](Model_comparison.png)
+![ROC Curve Comparison](ROC_Curve_comparison.png)
 
 ---
 
