@@ -69,7 +69,7 @@ Predict whether a customer will churn (leave the service) based on their behavio
 - Pandas, NumPy
 - Scikit-learn
 - XGBoost
-- Matplotlib, Seaborn
+- Matplotlib
 
 ---
 
